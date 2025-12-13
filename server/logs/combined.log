@@ -1,0 +1,122 @@
+{"level":"error","message":{"code":"ECONNREFUSED"},"timestamp":"2025-12-14 00:56:59"}
+{"level":"error","message":{"code":"ECONNREFUSED"},"timestamp":"2025-12-14 00:57:08"}
+{"level":"info","message":"Server is running on port 6000","timestamp":"2025-12-14 01:05:53"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:05:53"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:06:36"}
+{"level":"info","message":"Server is running on port 6000","timestamp":"2025-12-14 01:06:36"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:06:36"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:25:53"}
+{"level":"info","message":"Server is running on port 6000","timestamp":"2025-12-14 01:25:53"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:25:53"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:35:26"}
+{"level":"info","message":"Server is running on port 6000","timestamp":"2025-12-14 01:35:26"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:35:26"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:36:48"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:36:48"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:36:48"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 5.843 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:36:55"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 2.800 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:37:53"}
+{"level":"info","message":"\u001b[0mGET /api/v1%20/health \u001b[33m404\u001b[0m 0.237 ms - 155\u001b[0m\n","timestamp":"2025-12-14 01:38:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1%20/health \u001b[33m404\u001b[0m 0.171 ms - 155\u001b[0m\n","timestamp":"2025-12-14 01:39:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 0.294 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:40:28"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 0.299 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:42:03"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 0.493 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:42:05"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 0.234 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:42:06"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:42:15"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:42:15"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:42:15"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 1.974 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:42:15"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 0.879 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:42:20"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 0.278 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:42:44"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 0.298 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:42:45"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[33m404\u001b[0m 0.330 ms - 152\u001b[0m\n","timestamp":"2025-12-14 01:42:45"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:43:34"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:43:34"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:43:34"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[32m200\u001b[0m 1.478 ms - 140\u001b[0m\n","timestamp":"2025-12-14 01:44:05"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:45:23"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:45:23"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:45:23"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:46:47"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:46:47"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:46:47"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:46:50"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:46:50"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:46:50"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health/health \u001b[33m404\u001b[0m 1.991 ms - 79\u001b[0m\n","timestamp":"2025-12-14 01:47:01"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:47:17"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:47:17"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:47:17"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health/health \u001b[33m404\u001b[0m 2.269 ms - 79\u001b[0m\n","timestamp":"2025-12-14 01:47:19"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health%20 \u001b[33m404\u001b[0m 0.315 ms - 75\u001b[0m\n","timestamp":"2025-12-14 01:47:33"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[32m200\u001b[0m 0.551 ms - 140\u001b[0m\n","timestamp":"2025-12-14 01:48:04"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health/health \u001b[33m404\u001b[0m 0.355 ms - 79\u001b[0m\n","timestamp":"2025-12-14 01:48:11"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[32m200\u001b[0m 0.378 ms - 140\u001b[0m\n","timestamp":"2025-12-14 01:48:24"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health \u001b[32m200\u001b[0m 0.360 ms - 140\u001b[0m\n","timestamp":"2025-12-14 01:49:47"}
+{"level":"info","message":"\u001b[0mGET /api/v1/health/health \u001b[33m404\u001b[0m 0.194 ms - 79\u001b[0m\n","timestamp":"2025-12-14 01:49:54"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:50:36"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:50:36"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:50:36"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:51:10"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:51:10"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:51:10"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:51:22"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:51:22"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:51:22"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:51:26"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:51:26"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:51:26"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:51:28"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:51:28"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:51:28"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:51:42"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:51:42"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:51:42"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:51:50"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:51:50"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:51:50"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:51:52"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:51:52"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:51:52"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:52:00"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:52:00"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:52:00"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 01:52:05"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 01:52:05"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 01:52:05"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:00:43"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:00:43"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:00:43"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:00:48"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:00:48"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:00:48"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:00:52"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:00:52"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:00:52"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:07:42"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:07:42"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:07:42"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:07:49"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:07:49"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:07:49"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:08:26"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:08:26"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:08:26"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:08:46"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:08:46"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:08:46"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:08:56"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:08:56"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:08:56"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:09:05"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:09:05"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:09:05"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:10:40"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:10:40"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:10:40"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:11:11"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:11:11"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:11:11"}
+{"level":"info","message":"Database Connected.","timestamp":"2025-12-14 02:11:46"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-12-14 02:11:46"}
+{"level":"info","message":"Environment: DEVELOPMENT","timestamp":"2025-12-14 02:11:46"}
